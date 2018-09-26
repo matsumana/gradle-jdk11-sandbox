@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 public class SampleTest {
 
-    public static class InnerClass {
+    public static class NestClass {
         private String field1;
 
         public String getField1() {
